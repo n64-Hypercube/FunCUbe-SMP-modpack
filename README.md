@@ -1,1 +1,1 @@
-# FunCUbe-SMP-modpack
+# FunCUbe-SMP-modpack solo version (clients mods & server ones)
