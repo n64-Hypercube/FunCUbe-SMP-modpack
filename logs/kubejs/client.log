@@ -1,0 +1,7 @@
+[09:36:00] [INIT] KubeJS 1902.6.2-build.63; MC 1902 forge
+[09:36:00] [INIT] Loaded plugins:
+[09:36:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[09:36:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[09:36:00] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[09:36:00] [INFO] Loaded script client_scripts:example.js in 0.001 s
+[09:36:00] [INFO] Loaded 1/1 KubeJS client scripts in 0.092 s
