@@ -1,8 +1,8 @@
-[18:09:06] [INIT] KubeJS 1902.6.2-build.63; MC 1902 forge
-[18:09:06] [INIT] Loaded plugins:
-[18:09:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:09:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[18:09:06] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
-[18:09:06] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
-[18:09:06] [INFO] Loaded script client_scripts:jei.js in 0.009 s
-[18:09:06] [INFO] Loaded 1/1 KubeJS client scripts in 0.032 s
+[14:57:48] [INIT] KubeJS 1902.6.2-build.63; MC 1902 forge
+[14:57:48] [INIT] Loaded plugins:
+[14:57:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:57:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:57:48] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[14:57:48] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[14:57:48] [INFO] Loaded script client_scripts:jei.js in 0.007 s
+[14:57:48] [INFO] Loaded 1/1 KubeJS client scripts in 0.028 s
