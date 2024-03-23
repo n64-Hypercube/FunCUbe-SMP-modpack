@@ -1,9 +1,8 @@
-[18:56:36] [INIT] KubeJS 1902.6.2-build.63; MC 1902 forge
-[18:56:36] [INIT] Loaded plugins:
-[18:56:36] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:56:36] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[18:56:36] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
-[18:56:36] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
-[18:56:37] [INFO] Loaded script startup_scripts:items.js in 0.258 s
-[18:56:37] [INFO] Loaded script startup_scripts:removedrecipes.js in 0.002 s
-[18:56:37] [INFO] Loaded 2/2 KubeJS startup scripts in 1.124 s
+[15:39:30] [INIT] KubeJS 1902.6.2-build.63; MC 1902 forge
+[15:39:30] [INIT] Loaded plugins:
+[15:39:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:39:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[15:39:30] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[15:39:30] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[15:39:31] [INFO] Loaded script startup_scripts:items.js in 0.264 s
+[15:39:31] [INFO] Loaded 1/1 KubeJS startup scripts in 1.409 s
