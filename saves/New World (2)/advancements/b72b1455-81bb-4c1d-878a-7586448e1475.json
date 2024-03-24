@@ -3966,6 +3966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-03-23 19:49:58 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourceberry_to_purple": {
     "criteria": {
       "has_journal": "2024-03-21 19:01:36 +0100"

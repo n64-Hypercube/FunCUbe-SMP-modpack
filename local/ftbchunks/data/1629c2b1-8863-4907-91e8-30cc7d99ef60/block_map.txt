@@ -40,6 +40,7 @@
 #642081 minecraft:brown_terracotta
 #F82DAB minecraft:brown_wall_banner
 #BA9FBF minecraft:bubble_coral_block
+#C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
 #CB6F00 minecraft:candle
