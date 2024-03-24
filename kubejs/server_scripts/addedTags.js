@@ -43,10 +43,30 @@ ServerEvents.tags('item', event => {
         'minecraft:diamond_sword',
         'minecraft:diamond_hoe',
         'aether:diamond_gloves'])
+    event.add('forge:steel_crushable',
+        'mekanismtools:steel_paxel', 
+        ['ad_astra:steel_cable', 
+        'mekanismtools:steel_axe', 
+        'mekanismtools:steel_pickaxe', 
+        'ad_astra:steel_tank', 
+        'ad_astra:steel_engine', 
+        'immersiveengineering:drillhead_steel', 
+        'immersiveengineering:component_steel', 
+        'mekanismtools:steel_boots', 
+        'mekanismtools:steel_leggings', 
+        'mekanismtools:steel_helmet', 
+        'mekanismtools:steel_chestplate', 
+        'mekanismtools:steel_shield'])
+    event.add('forge:steel_small_crushable', 
+        ['mekanismtools:steel_shovel',
+        'mekanismtools:steel_sword',
+        'mekanismtools:steel_hoe',  
+        'mekanism:ingot_steel', 
+        'immersiveengineering:wire_steel', 
+        'ad_astra:steel_plate'])
     event.add('forge:sheetmetal_slabs', 'createdeco:copper_sheet_slab')
     event.add('forge:sheetmetals', 'createdeco:copper_sheet_metal')
     event.add('forge:sheetmetals/copper', 'createdeco:copper_sheet_metal')
-
 })
 ServerEvents.tags('block', event => {
     event.add('forge:sheetmetals/copper',['createdeco:copper_sheet_metal','chipped:sheet_waxed_copper_block'])

@@ -23,6 +23,14 @@ ServerEvents.tags('item', event => {
         'immersiveengineering:dust_copper', 
         'mekanism:dust_copper',
         'immersiveengineering:ingot_steel',
-        'ad_astra:steel_ingot'
+        'ad_astra:steel_ingot',
+        'ad_astra:steel_nugget', 
+        'immersiveengineering:nugget_steel',
+        'immersiveengineering:plate_steel',
+        'ad_astra:hammer',
+        'immersiveengineering:dust_steel',
+        'mekanism:block_steel', 
+        'ad_astra:steel_block',
+        'immersiveengineering:wire_copper'
     ])
 })

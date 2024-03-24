@@ -18,6 +18,7 @@
 #2183E8 minecraft:bee_nest
 #7F50F6 minecraft:bell
 #3DE8FE minecraft:birch_leaves
+#3BA928 minecraft:birch_log
 #B152E8 minecraft:black_wool
 #C9CBB9 minecraft:blackstone
 #C5E5AF immersiveengineering:blastbrick_reinforced

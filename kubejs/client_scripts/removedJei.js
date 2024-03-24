@@ -68,8 +68,26 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:slab_storage_nickel',
         'immersiveengineering:raw_block_nickel',
         'createaddition:diamond_grit', 
-        'mekanism:dust_diamond'
-    ]
+        'mekanism:dust_diamond',
+        'ad_astra:steel_ingot', 
+        'immersiveengineering:ingot_steel',
+        'immersiveengineering:hoe_steel', 
+        'immersiveengineering:axe_steel', 
+        'immersiveengineering:shovel_steel', 
+        'immersiveengineering:pickaxe_steel', 
+        'immersiveengineering:sword_steel',
+        'immersiveengineering:dust_steel', 
+        'immersiveengineering:plate_steel', 
+        'immersiveengineering:nugget_steel', 
+        'ad_astra:steel_nugget', 
+        'ad_astra:steel_block', 
+        'mekanism:block_steel', 
+        'immersiveengineering:armor_steel_feet', 
+        'immersiveengineering:armor_steel_legs', 
+        'immersiveengineering:armor_steel_chest', 
+        'immersiveengineering:armor_steel_head',
+        'immersiveengineering:wire_copper'
+        ]
     ])    
 })
 
