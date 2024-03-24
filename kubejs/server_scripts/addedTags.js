@@ -43,4 +43,13 @@ ServerEvents.tags('item', event => {
         'minecraft:diamond_sword',
         'minecraft:diamond_hoe',
         'aether:diamond_gloves'])
+    event.add('forge:sheetmetal_slabs', 'createdeco:copper_sheet_slab')
+    event.add('forge:sheetmetals', 'createdeco:copper_sheet_metal')
+    event.add('forge:sheetmetals/copper', 'createdeco:copper_sheet_metal')
+
+})
+ServerEvents.tags('block', event => {
+    event.add('forge:sheetmetals/copper',['createdeco:copper_sheet_metal','chipped:sheet_waxed_copper_block'])
+    event.add('forge:sheetmetals',['createdeco:copper_sheet_metal','chipped:sheet_waxed_copper_block'])
+    event.add('forge:sheetmetal_slabs', 'createdeco:copper_sheet_slab')
 })

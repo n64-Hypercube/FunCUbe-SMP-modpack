@@ -1,4 +1,5 @@
 #5C1 terralith:alpine_highlands
+#3FF ars_nouveau:archwood_forest
 #572 terralith:arid_highlands
 #147 terralith:ashen_savanna
 #556 minecraft:beach
