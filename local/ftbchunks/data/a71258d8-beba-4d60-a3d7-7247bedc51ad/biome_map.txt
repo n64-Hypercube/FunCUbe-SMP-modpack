@@ -1,0 +1,12 @@
+#3FF ars_nouveau:archwood_forest
+#556 minecraft:beach
+#5E9 terralith:blooming_plateau
+#1FE terralith:blooming_valley
+#184 terralith:brushland
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#79A minecraft:lukewarm_ocean
+#4F1 minecraft:ocean
+#5FF minecraft:river
+#039 terralith:savanna_badlands
+#579 minecraft:windswept_savanna

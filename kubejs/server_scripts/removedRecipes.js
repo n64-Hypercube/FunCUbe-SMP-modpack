@@ -34,10 +34,10 @@ ServerEvents.recipes(event => {
     event.remove({id:'ad_astra:recipes/steel_ingot'})
     event.remove({id:'mekanism:processing/steel/ingot/from_block'})
     event.remove({id:''})
-    event.remove({id:''})
-    event.remove({id:''})
-    event.remove({id:''})
-    event.remove({id:''})
+    event.remove({id:'mekanism:processing/gold/dust/from_ingot'})
+    event.remove({id:'immersiveengineering:smelting/gold_ingot_from_dust_from_blasting'})
+    event.remove({id:'thermal:smelting/gold_ingot_from_dust_blasting'})
+    event.remove({id:'immersiveengineering:smelting/gold_ingot_from_dust'})
     event.remove({input:'immersiveengineering:shovel_steel'})
     event.remove({input:'immersiveengineering:pickaxe_steel'})
     event.remove({input:'immersiveengineering:axe_steel'})
@@ -47,6 +47,7 @@ ServerEvents.recipes(event => {
     event.remove({id:'mekanism:processing/steel/ingot/from_dust_smelting'})
     event.remove({id:'mekanism:processing/steel/ingot/from_dust_blasting'})
     event.remove({input: 'immersiveengineering:sword_steel'})
+    event.remove({id:'createaddition:crushing/diamond'})
     //steel stuff
     
 })

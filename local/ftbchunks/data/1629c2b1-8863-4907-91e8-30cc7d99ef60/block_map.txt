@@ -81,6 +81,10 @@
 #306005 minecraft:cracked_stone_bricks
 #D4D166 blue_skies:cracked_turquoise_stonebrick
 #2C02D0 iceandfire:crackled_cobblestone
+#397B93 iceandfire:crackled_dirt
+#1982A6 iceandfire:crackled_grass
+#0C4993 iceandfire:crackled_gravel
+#C3B955 iceandfire:crackled_stone
 #468304 minecraft:crafting_table
 #73CA69 create:creative_motor
 #4BF61E create:crimsite
@@ -158,6 +162,7 @@
 #1A0827 minecraft:hopper
 #9D2636 minecraft:horn_coral_block
 #52D27E minecraft:ice
+#4F64F8 minecraft:infested_cobblestone
 #0575BD minecraft:infested_stone
 #2E2249 minecraft:iron_block
 #D7EADE minecraft:iron_ore

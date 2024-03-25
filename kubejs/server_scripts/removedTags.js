@@ -1,10 +1,7 @@
 ServerEvents.tags('item', event => {
-    //enlève touts les tags de touts les copper nuggets sauf celui de create pour que seul celui de create puisse être utilisé dans la plupart des recettes,
-    //les autres sont retirées manuelement dans removedRecipes ou dans le datapack
-    event.removeAllTagsFrom(['iceandfire:copper_nugget', 'thermal:copper_nugget', 'immersiveengineering:nugget_copper'])
-    //enlève touts les tags de touts les trucs de nickel sauf ceux de thermal pour que seul ceux de thermal puisse être utilisé dans la plupart des recettes,
-    //les autres sont retirées manuelement dans removedRecipes ou dans le datapack
     event.removeAllTagsFrom([
+        'iceandfire:copper_nugget', 'thermal:copper_nugget', 
+        'immersiveengineering:nugget_copper',
         'immersiveengineering:ingot_nickel',
         "immersiveengineering:raw_nickel",
         "immersiveengineering:nugget_nickel",
@@ -31,6 +28,10 @@ ServerEvents.tags('item', event => {
         'immersiveengineering:dust_steel',
         'mekanism:block_steel', 
         'ad_astra:steel_block',
-        'immersiveengineering:wire_copper'
+        'immersiveengineering:wire_copper',
+        'thermal:gold_plate', 
+        'immersiveengineering:plate_gold',
+        'mekanism:dust_gold',
+        'immersiveengineering:dust_gold'
     ])
 })

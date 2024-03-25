@@ -86,7 +86,12 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:armor_steel_legs', 
         'immersiveengineering:armor_steel_chest', 
         'immersiveengineering:armor_steel_head',
-        'immersiveengineering:wire_copper'
+        'immersiveengineering:wire_copper',
+        'thermal:gold_plate', 
+        'immersiveengineering:plate_gold',
+        'mekanism:dust_netherite',
+        'thermal:copper_coin',
+        'thermal:gold_coin'
         ]
     ])    
 })
