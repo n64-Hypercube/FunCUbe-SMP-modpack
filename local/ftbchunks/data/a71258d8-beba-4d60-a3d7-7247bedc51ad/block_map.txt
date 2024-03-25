@@ -49,6 +49,7 @@
 #5A981B minecraft:moss_carpet
 #A4FC4B minecraft:mossy_cobblestone
 #483B67 minecraft:mossy_stone_bricks
+#C12826 create_jetpack:netherite_jetpack
 #CADBB6 thermal:nickel_ore
 #AD9EB5 minecraft:oak_leaves
 #BBA6D1 minecraft:oak_log
@@ -67,6 +68,7 @@
 #5D54D0 ars_nouveau:red_archwood_leaves
 #465F37 minecraft:red_tulip
 #47B308 twigs:rhyolite
+#9C3ECB minecraft:rose_bush
 #72D9AB twigs:roseate_seashell
 #86FC77 minecraft:sand
 #7E2654 minecraft:sandstone

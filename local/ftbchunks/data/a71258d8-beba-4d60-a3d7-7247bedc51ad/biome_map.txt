@@ -1,5 +1,6 @@
 #3FF ars_nouveau:archwood_forest
 #556 minecraft:beach
+#47F minecraft:birch_forest
 #5E9 terralith:blooming_plateau
 #1FE terralith:blooming_valley
 #184 terralith:brushland
