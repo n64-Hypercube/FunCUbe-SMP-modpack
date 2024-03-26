@@ -10,40 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "createaddition:creative_energy"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east"
-		},
-		"Name": "createaddition:creative_energy"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south"
-		},
-		"Name": "createaddition:creative_energy"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west"
-		},
-		"Name": "createaddition:creative_energy"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "up"
-		},
-		"Name": "createaddition:creative_energy"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "down"
-		},
-		"Name": "createaddition:creative_energy"
 	}
 ]

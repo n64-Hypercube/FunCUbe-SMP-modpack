@@ -94,7 +94,9 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:dust_constantan', 
         'immersiveengineering:plate_constantan', 
         'immersiveengineering:nugget_constantan', 
-        'immersiveengineering:ingot_constantan'
+        'immersiveengineering:ingot_constantan',
+        'immersiveengineering:sheetmetal_iron',
+        'immersiveengineering:slab_sheetmetal_iron'
         ]
     ])    
 })

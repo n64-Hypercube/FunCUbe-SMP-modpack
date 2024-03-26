@@ -10,40 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "createaddition:alternator"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east"
-		},
-		"Name": "createaddition:alternator"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south"
-		},
-		"Name": "createaddition:alternator"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west"
-		},
-		"Name": "createaddition:alternator"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "up"
-		},
-		"Name": "createaddition:alternator"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "down"
-		},
-		"Name": "createaddition:alternator"
 	}
 ]

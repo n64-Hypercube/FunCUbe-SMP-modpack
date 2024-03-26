@@ -15,6 +15,7 @@ ServerEvents.recipes(event => {
     event.replaceOutput({ output:'thermal:copper_plate'}, 'thermal:copper_plate', 'create:copper_sheet')
     event.replaceOutput({ output:'createdeco:gold_coin'}, 'createdeco:gold_coin', 'thermal:gold_coin')
     event.replaceOutput({ output:'createdeco:copper_coin'}, 'createdeco:copper_coin', 'thermal:copper_coin')
+    event.replaceOutput({ output:'createdeco:iron_sheet_slab'},'createdeco:iron_sheet_slab','immersiveengineering:slab_sheetmetal_iron')
     //steel armors
     event.replaceOutput({ id:'immersiveengineering:crafting/armor_steel_legs'}, 'immersiveengineering:armor_steel_legs', 'mekanismtools:steel_leggings')
     event.replaceOutput({ id:'immersiveengineering:crafting/armor_steel_feet'}, 'immersiveengineering:armor_steel_feet', 'mekanismtools:steel_boots')

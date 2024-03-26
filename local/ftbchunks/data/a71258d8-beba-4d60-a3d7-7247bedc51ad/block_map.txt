@@ -1,6 +1,7 @@
 #942E52 minecraft:acacia_leaves
 #FA75A8 minecraft:andesite
 #D16C77 minecraft:andesite_slab
+#3FFA68 immersiveengineering:assembler
 #0D47EE minecraft:azalea_leaves
 #C6AD9E createaddition:barbed_wire
 #189B99 minecraft:barrel
@@ -25,6 +26,7 @@
 #058353 minecraft:cobblestone
 #7331AC minecraft:cobblestone_slab
 #8B8A11 minecraft:cobweb
+#B4E342 immersiveengineering:conveyor_basic
 #6E76AF minecraft:copper_ore
 #CC07F6 minecraft:cornflower
 #306005 minecraft:cracked_stone_bricks
@@ -50,11 +52,14 @@
 #F54742 ars_nouveau:green_archwood_leaves
 #C764EA ars_nouveau:green_archwood_log
 #D7EADE minecraft:iron_ore
+#C8C4A7 createdeco:iron_sheet_metal
+#739068 createdeco:iron_sheet_slab
 #3CAD79 minecraft:lantern
 #EA439B minecraft:lapis_ore
 #8BD7A2 extendedgears:large_half_shaft_cogwheel
 #02D09C mekanism:lead_ore
 #192C4A ars_nouveau:light_block
+#19EEF2 immersiveengineering:light_engineering
 #EC280B minecraft:light_gray_terracotta
 #DE9468 minecraft:magma_block
 #562281 create_new_age:magnetite_block
@@ -98,13 +103,17 @@
 #47B308 twigs:rhyolite
 #9C3ECB minecraft:rose_bush
 #72D9AB twigs:roseate_seashell
+#7B5F9D immersiveengineering:rs_engineering
 #86FC77 minecraft:sand
 #7E2654 minecraft:sandstone
 #33130F create:scoria
 #D3CCFE create:shaft
+#3E1C53 chipped:sheet_iron_block
+#8B3F27 immersiveengineering:sheetmetal_iron
 #E1234E iceandfire:silver_ore
 #B9A552 ad_astra:sky_stone
 #468B47 ae2:sky_stone_block
+#8EC922 immersiveengineering:slab_sheetmetal_iron
 #8638B9 minecraft:smooth_basalt
 #A67F43 minecraft:soul_sand
 #A6B33E minecraft:soul_soil
@@ -113,6 +122,7 @@
 #64F88A minecraft:spruce_slab
 #D9135A minecraft:spruce_stairs
 #B1D22B minecraft:spruce_trapdoor
+#F428EC immersiveengineering:steel_scaffolding_standard
 #3B9324 create_new_age:stirling_engine
 #DC3458 minecraft:stone
 #B21185 minecraft:stone_brick_slab

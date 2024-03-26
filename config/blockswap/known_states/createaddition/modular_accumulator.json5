@@ -10,29 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "createaddition:modular_accumulator"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"top": "false",
-			"bottom": "true"
-		},
-		"Name": "createaddition:modular_accumulator"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"top": "true",
-			"bottom": "false"
-		},
-		"Name": "createaddition:modular_accumulator"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"top": "false",
-			"bottom": "false"
-		},
-		"Name": "createaddition:modular_accumulator"
 	}
 ]

@@ -1,11 +1,11 @@
-[14:14:14] [INIT] KubeJS 1902.6.2-build.63; MC 1902 forge
-[14:14:14] [INIT] Loaded plugins:
-[14:14:14] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:14:14] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[14:14:14] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[14:14:14] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
-[14:14:14] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
-[14:14:16] [INFO] Loaded script startup_scripts:armure_du_maire/armors.js in 0.183 s
-[14:14:16] [INFO] Loaded script startup_scripts:armure_du_maire/tier.js in 0.004 s
-[14:14:16] [INFO] Loaded script startup_scripts:items.js in 0.001 s
-[14:14:16] [INFO] Loaded 3/3 KubeJS startup scripts in 1.202 s
+[15:24:14] [INIT] KubeJS 1902.6.2-build.63; MC 1902 forge
+[15:24:14] [INIT] Loaded plugins:
+[15:24:14] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:24:14] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[15:24:14] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[15:24:14] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[15:24:14] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[15:24:15] [INFO] Loaded script startup_scripts:armure_du_maire/armors.js in 0.236 s
+[15:24:15] [INFO] Loaded script startup_scripts:armure_du_maire/tier.js in 0.004 s
+[15:24:15] [INFO] Loaded script startup_scripts:items.js in 0.002 s
+[15:24:15] [INFO] Loaded 3/3 KubeJS startup scripts in 1.397 s

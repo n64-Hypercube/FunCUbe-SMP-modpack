@@ -9,62 +9,6 @@ to make editing this file much easier.
 */
 [
 	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"vertical": "true",
-			"facing": "north"
-		},
-		"Name": "createaddition:barbed_wire"
-	},
-	{
-		"Name": "createaddition:barbed_wire"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"vertical": "true",
-			"facing": "south"
-		},
-		"Name": "createaddition:barbed_wire"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"vertical": "false",
-			"facing": "south"
-		},
-		"Name": "createaddition:barbed_wire"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"vertical": "true",
-			"facing": "west"
-		},
-		"Name": "createaddition:barbed_wire"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"vertical": "false",
-			"facing": "west"
-		},
-		"Name": "createaddition:barbed_wire"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"vertical": "true",
-			"facing": "east"
-		},
-		"Name": "createaddition:barbed_wire"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"vertical": "false",
-			"facing": "east"
-		},
 		"Name": "createaddition:barbed_wire"
 	}
 ]

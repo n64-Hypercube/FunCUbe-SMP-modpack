@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2024-03-25 14:55:00 +0100"
@@ -113,6 +119,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/item_batcher": {
+    "criteria": {
+      "has_conveyor_basic": "2024-03-26 18:36:14 +0100"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2024-03-25 18:37:24 +0100"
@@ -128,6 +140,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-03-25 14:55:15 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_light_blue": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:12 +0100"
     },
     "done": true
   },
@@ -155,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-03-25 15:11:18 +0100"
@@ -167,9 +191,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/red_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
     },
     "done": true
   },
@@ -263,15 +299,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/iron_coinstack": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:04 +0100"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/mythicbotany/central_rune_holder": {
     "criteria": {
       "criterion0": "2024-03-26 14:21:02 +0100"
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2024-03-26 18:38:54 +0100"
+    },
+    "done": true
+  },
   "aether:recipes/misc/ice_ring_from_freezing": {
     "criteria": {
       "has_ring": "2024-03-25 18:42:37 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2024-03-26 15:31:54 +0100"
     },
     "done": true
   },
@@ -314,6 +368,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_red": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:12 +0100"
     },
     "done": true
   },
@@ -395,6 +455,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/cyan_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2024-03-25 18:40:03 +0100"
@@ -422,6 +494,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-03-25 18:36:47 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
     },
     "done": true
   },
@@ -461,6 +539,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/yellow_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/item_detector": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
@@ -497,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-03-26 18:23:06 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_legs": {
     "criteria": {
       "has_steel_plate": "2024-03-25 21:03:09 +0100"
@@ -506,6 +602,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_constantan": {
     "criteria": {
       "has_plate_constantan": "2024-03-25 21:56:49 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/black_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_from_standard": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2024-03-26 18:36:33 +0100"
     },
     "done": true
   },
@@ -542,6 +650,18 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-03-25 15:11:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/metal_barrel": {
+    "criteria": {
+      "has_iron_sheet_slab": "2024-03-26 15:34:12 +0100"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-03-26 18:23:06 +0100"
     },
     "done": true
   },
@@ -590,6 +710,12 @@
   "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
       "has_golden_leggings": "2024-03-25 18:37:07 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_sheet_slab_from_iron_sheet_metal_stonecutting": {
+    "criteria": {
+      "has_iron_sheet_metal": "2024-03-26 15:32:17 +0100"
     },
     "done": true
   },
@@ -659,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
@@ -673,9 +805,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2024-03-26 18:23:30 +0100",
       "minecraft:zombie": "2024-03-26 14:33:15 +0100"
     },
     "done": false
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard_to_slab": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2024-03-26 18:36:33 +0100"
+    },
+    "done": true
   },
   "mekanism:root": {
     "criteria": {
@@ -725,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2024-03-26 18:23:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/wixie_hat": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -746,6 +891,12 @@
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_gloves": "2024-03-25 18:39:27 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_redstone": {
+    "criteria": {
+      "has_conveyor": "2024-03-26 18:36:14 +0100"
     },
     "done": true
   },
@@ -773,9 +924,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_blue": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-03-25 15:11:17 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/mortar_stone": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
     },
     "done": true
   },
@@ -794,6 +957,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_iron_to_slab": {
+    "criteria": {
+      "has_sheetmetal_iron": "2024-03-26 15:34:13 +0100"
     },
     "done": true
   },
@@ -833,6 +1002,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
@@ -845,9 +1020,21 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_sheetmetal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:34:12 +0100"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/copper_coinstack": {
     "criteria": {
       "has_item": "2024-03-25 18:28:04 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
+    "criteria": {
+      "has_iron_sheetmetal": "2024-03-26 15:34:13 +0100"
     },
     "done": true
   },
@@ -881,6 +1068,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/iron_sheet_slab": {
+    "criteria": {
+      "has_iron_sheet_metal": "2024-03-26 15:32:17 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
@@ -905,6 +1098,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_dust_iron": "2024-03-26 15:33:36 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
@@ -920,6 +1119,12 @@
   "create:recipes/create.base/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
       "has_item": "2024-03-25 20:16:58 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/red_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
     },
     "done": true
   },
@@ -962,6 +1167,12 @@
   "ars_nouveau:recipes/combat/spike_to_arrow": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/drill": {
+    "criteria": {
+      "has_heavy_engineering": "2024-03-26 18:36:24 +0100"
     },
     "done": true
   },
@@ -1043,9 +1254,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/white_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_catwalk": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-03-25 18:36:47 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/magenta_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
     },
     "done": true
   },
@@ -1085,6 +1314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2024-03-26 15:08:43 +0100"
@@ -1109,6 +1344,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_lime": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:12 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -1118,6 +1359,12 @@
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2024-03-26 14:33:10 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/green_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
     },
     "done": true
   },
@@ -1154,6 +1401,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_steel": {
     "criteria": {
       "has_steel_ingot": "2024-03-25 21:03:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2024-03-26 18:23:06 +0100"
     },
     "done": true
   },
@@ -1223,9 +1476,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_iron": "2024-03-26 15:33:36 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_trapdoor": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
     },
     "done": true
   },
@@ -1238,6 +1503,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
     },
     "done": true
   },
@@ -1305,6 +1576,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_splitter": {
+    "criteria": {
+      "has_conveyor": "2024-03-26 18:36:14 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_constantan_to_ingot_constantan": {
     "criteria": {
       "has_storage_constantan": "2024-03-25 21:56:45 +0100"
@@ -1321,6 +1598,12 @@
     "criteria": {
       "has_wit": "2024-03-25 14:55:00 +0100",
       "has_wct": "2024-03-25 14:55:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
     },
     "done": true
   },
@@ -1366,15 +1649,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/light_blue_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
     },
     "done": true
   },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "conveyor_basic": "2024-03-26 18:36:43 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_gravity": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/blue_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
     },
     "done": true
   },
@@ -1393,6 +1694,12 @@
   "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
       "has_netherite_leggings": "2024-03-25 20:17:02 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_sheet_slab_vert": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:17 +0100"
     },
     "done": true
   },
@@ -1420,6 +1727,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_white": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:13 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stairs_steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2024-03-26 18:36:33 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard": {
     "criteria": {
       "has_steel_ingot": "2024-03-25 21:03:32 +0100"
@@ -1441,6 +1766,12 @@
   "createdeco:recipes/createdeco.metals/copper_catwalk": {
     "criteria": {
       "has_item": "2024-03-25 19:01:06 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2024-03-26 15:31:54 +0100"
     },
     "done": true
   },
@@ -1471,6 +1802,18 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_sheet_stairs": {
+    "criteria": {
+      "has_iron_sheet_metal": "2024-03-26 15:32:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_brown": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:12 +0100"
     },
     "done": true
   },
@@ -1588,6 +1931,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_light_gray": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:12 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_challenge": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
@@ -1642,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -1654,15 +2015,45 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/orange_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2024-03-26 15:31:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-03-25 15:11:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
     },
     "done": true
   },
@@ -1678,6 +2069,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/iron_sheet_slab_vert_from_iron_sheet_metal_stonecutting": {
+    "criteria": {
+      "has_iron_sheet_metal": "2024-03-26 15:32:17 +0100"
+    },
+    "done": true
+  },
   "aether:recipes/tools/netherite_hoe_repairing": {
     "criteria": {
       "has_netherite_hoe": "2024-03-25 20:19:12 +0100"
@@ -1687,6 +2084,18 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_ladder_from_plates_iron_stonecutting": {
+    "criteria": {
+      "has_plates_iron": "2024-03-26 15:31:54 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
     },
     "done": true
   },
@@ -1708,6 +2117,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_cyan": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:13 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard_from_slab": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2024-03-26 18:36:33 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ring_of_potential": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -1717,6 +2138,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_chest": {
     "criteria": {
       "has_steel_plate": "2024-03-25 21:03:09 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-03-26 18:23:06 +0100"
     },
     "done": true
   },
@@ -1738,9 +2165,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_slope": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2024-03-26 18:36:33 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/purple_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
     },
     "done": true
   },
@@ -1816,6 +2255,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
     "criteria": {
       "has_nickel_ingot": "2024-03-25 20:01:56 +0100"
@@ -1844,6 +2289,12 @@
     "criteria": {
       "has_wit": "2024-03-25 14:55:00 +0100",
       "has_wpt": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
     },
     "done": true
   },
@@ -1937,6 +2388,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_iron": {
+    "criteria": {
+      "has_plate_iron": "2024-03-26 15:33:25 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/platform_to_pedestal": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -1997,6 +2454,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
@@ -2036,6 +2499,12 @@
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2024-03-25 16:11:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-26 18:23:19 +0100"
     },
     "done": true
   },
@@ -2141,6 +2610,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/green_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_sanctuary": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -2165,6 +2640,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/brown_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -2183,6 +2664,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/iron_coin": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:07 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_yellow": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:12 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -2192,6 +2685,12 @@
   "aether:recipes/tools/netherite_shovel_repairing": {
     "criteria": {
       "has_netherite_shovel": "2024-03-25 20:19:16 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/gray_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
     },
     "done": true
   },
@@ -2216,6 +2715,12 @@
   "createdeco:recipes/createdeco.props/yellow_netherite_lamp": {
     "criteria": {
       "has_item": "2024-03-25 20:20:01 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_sheet_stairs_from_iron_sheet_metal_stonecutting": {
+    "criteria": {
+      "has_iron_sheet_metal": "2024-03-26 15:32:17 +0100"
     },
     "done": true
   },
@@ -2261,6 +2766,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -2288,6 +2799,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-03-25 15:11:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_gray": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:13 +0100"
     },
     "done": true
   },
@@ -2333,15 +2850,33 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sorter": {
+    "criteria": {
+      "has_conveyor_basic": "2024-03-26 18:36:14 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_jar": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_purple": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:13 +0100"
     },
     "done": true
   },
@@ -2369,9 +2904,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/blank_thread": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
     },
     "done": true
   },
@@ -2435,6 +2982,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_black": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:13 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 19:56:38 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -2450,6 +3009,12 @@
   "minecraft:recipes/createbigcannons/big_cannon_sheet_inexpensive": {
     "criteria": {
       "has_inexpensive_big_cartridge_sheet": "2024-03-25 16:11:52 +0100"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-03-26 20:04:53 +0100"
     },
     "done": true
   },
@@ -2471,15 +3036,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/pink_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-03-26 18:23:06 +0100"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/blue_gold_lamp": {
     "criteria": {
       "has_item": "2024-03-25 16:11:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
     },
     "done": true
   },
@@ -2522,6 +3105,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
     },
     "done": true
   },
@@ -2585,6 +3174,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_dropper": {
+    "criteria": {
+      "has_conveyor": "2024-03-26 18:36:14 +0100"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2024-03-25 14:55:00 +0100"
@@ -2615,15 +3210,39 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_orange": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:12 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-03-26 18:23:06 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_structural": {
     "criteria": {
       "has_steel_ingot": "2024-03-25 21:03:33 +0100"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "mekanismtools:paxel": {
     "criteria": {
       "any_paxel": "2024-03-25 18:38:31 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic_covered": {
+    "criteria": {
+      "has_vertical_conveyor": "2024-03-26 18:36:14 +0100"
     },
     "done": true
   },
@@ -2651,6 +3270,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_vertical": {
+    "criteria": {
+      "has_conveyor": "2024-03-26 18:36:14 +0100"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2024-03-25 18:37:11 +0100"
@@ -2666,6 +3291,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/light_gray_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
     },
     "done": true
   },
@@ -2701,6 +3332,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/yellow_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
@@ -2716,6 +3353,18 @@
   "aether:recipes/tools/golden_pickaxe_repairing": {
     "criteria": {
       "has_golden_pickaxe": "2024-03-25 18:37:01 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/lime_decal": {
+    "criteria": {
+      "has_item": "2024-03-26 15:32:02 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_extract": {
+    "criteria": {
+      "has_conveyor": "2024-03-26 18:36:14 +0100"
     },
     "done": true
   },
@@ -2755,9 +3404,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_magenta": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:13 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/clear_allow": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_iron_from_slab": {
+    "criteria": {
+      "has_sheetmetal_iron": "2024-03-26 15:34:12 +0100"
     },
     "done": true
   },
@@ -2776,6 +3437,12 @@
   "ars_nouveau:recipes/ars_nouveau/spell_prism": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-03-26 18:38:54 +0100"
     },
     "done": true
   },
@@ -2827,6 +3494,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_iron_sheetmetal": "2024-03-26 15:34:12 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_gem_block_2": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -2851,9 +3524,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/blue_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-03-26 15:31:54 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-03-26 15:08:42 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sample_drill": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2024-03-26 18:36:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
     },
     "done": true
   },
@@ -2884,6 +3575,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-03-26 18:23:06 +0100"
     },
     "done": true
   },
@@ -2935,6 +3632,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_pink": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:04:53 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/component_steel": {
     "criteria": {
       "has_steel_ingot": "2024-03-25 21:03:32 +0100"
@@ -2956,6 +3665,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green": {
+    "criteria": {
+      "has_sheetmetal": "2024-03-26 15:34:13 +0100"
     },
     "done": true
   },

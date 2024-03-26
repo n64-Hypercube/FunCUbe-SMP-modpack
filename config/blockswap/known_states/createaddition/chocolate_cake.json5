@@ -10,47 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "createaddition:chocolate_cake"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"bites": "1"
-		},
-		"Name": "createaddition:chocolate_cake"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"bites": "2"
-		},
-		"Name": "createaddition:chocolate_cake"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"bites": "3"
-		},
-		"Name": "createaddition:chocolate_cake"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"bites": "4"
-		},
-		"Name": "createaddition:chocolate_cake"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"bites": "5"
-		},
-		"Name": "createaddition:chocolate_cake"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"bites": "6"
-		},
-		"Name": "createaddition:chocolate_cake"
 	}
 ]

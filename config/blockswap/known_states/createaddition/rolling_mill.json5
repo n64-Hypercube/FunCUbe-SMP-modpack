@@ -10,26 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "createaddition:rolling_mill"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south"
-		},
-		"Name": "createaddition:rolling_mill"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west"
-		},
-		"Name": "createaddition:rolling_mill"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east"
-		},
-		"Name": "createaddition:rolling_mill"
 	}
 ]
