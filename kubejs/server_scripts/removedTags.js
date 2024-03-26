@@ -32,6 +32,11 @@ ServerEvents.tags('item', event => {
         'thermal:gold_plate', 
         'immersiveengineering:plate_gold',
         'mekanism:dust_gold',
-        'immersiveengineering:dust_gold'
+        'immersiveengineering:dust_gold',
+        'immersiveengineering:nugget_constantan', 
+        'immersiveengineering:ingot_constantan', 
+        'immersiveengineering:plate_constantan', 
+        'immersiveengineering:dust_constantan', 
+        'immersiveengineering:storage_constantan'
     ])
 })

@@ -8,6 +8,7 @@ ServerEvents.recipes(event => {
     event.replaceInput({ input: 'immersiveengineering:dust_steel'}, 'immersiveengineering:dust_steel', 'mekanism:dust_steel')
     event.replaceInput({ input:'createdeco:gold_coin'}, 'createdeco:gold_coin', 'thermal:gold_coin')
     event.replaceInput({ input:'createdeco:copper_coin'}, 'createdeco:copper_coin', 'thermal:copper_coin')
+    event.replaceInput({ input:'immersiveengineering:dust_constantan'}, 'immersiveengineering:dust_constantan', 'thermal:constantan_dust')
     event.replaceInput([{input:'thermal:gold_plate'}, {input: "immersiveengineering:plate_gold"}], ['thermal:gold_plate', 'immersiveengineering:plate_gold'], 'create:golden_sheet')
     event.replaceInput([{input: 'immersiveengineering:ingot_steel'}, {input: 'ad_astra:steel_ingot'}],['immersiveengineering:ingot_steel', 'ad_astra:steel_ingot'],'mekanism:ingot_steel')
 })

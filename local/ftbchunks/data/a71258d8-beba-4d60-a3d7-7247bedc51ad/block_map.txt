@@ -42,6 +42,7 @@
 #F54742 ars_nouveau:green_archwood_leaves
 #D7EADE minecraft:iron_ore
 #3CAD79 minecraft:lantern
+#02D09C mekanism:lead_ore
 #192C4A ars_nouveau:light_block
 #EC280B minecraft:light_gray_terracotta
 #DE9468 minecraft:magma_block
@@ -55,6 +56,7 @@
 #BBA6D1 minecraft:oak_log
 #E3886A minecraft:oak_planks
 #46FB1F minecraft:oak_wall_sign
+#66575D ad_astra:oil
 #C6A51A twigs:opaline_seashell
 #8F6314 minecraft:orange_tulip
 #BF0745 immersiveengineering:ore_aluminum
@@ -89,6 +91,7 @@
 #B3BB15 minecraft:stone_brick_wall
 #F8955F minecraft:stone_bricks
 #AB5BC7 minecraft:stone_slab
+#1F5C9D immersiveengineering:storage_constantan
 #82F982 minecraft:stripped_spruce_log
 #5CF3F1 minecraft:sugar_cane
 #7CC7E5 thermal:sulfur_ore

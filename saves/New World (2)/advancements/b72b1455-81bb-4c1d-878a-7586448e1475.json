@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_constantan_hammering": {
+    "criteria": {
+      "has_constantan_ingot": "2024-03-25 21:56:44 +0100"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_sword_repairing": {
     "criteria": {
       "has_netherite_sword": "2024-03-25 20:19:15 +0100"
@@ -92,6 +98,12 @@
   "computercraft:recipes/computercraft/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2024-03-25 18:37:24 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_constantan_from_slab": {
+    "criteria": {
+      "has_storage_constantan": "2024-03-25 21:57:09 +0100"
     },
     "done": true
   },
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_constantan_to_ingot_constantan": {
+    "criteria": {
+      "has_nugget_constantan": "2024-03-25 21:57:13 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_10": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -446,6 +464,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_legs": {
     "criteria": {
       "has_steel_plate": "2024-03-25 21:03:09 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_constantan": {
+    "criteria": {
+      "has_plate_constantan": "2024-03-25 21:56:49 +0100"
     },
     "done": true
   },
@@ -1184,6 +1208,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_constantan_to_ingot_constantan": {
+    "criteria": {
+      "has_storage_constantan": "2024-03-25 21:56:45 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/magebloom_fiber": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
@@ -1738,6 +1768,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_constantan_from_dust": {
+    "criteria": {
+      "has_dust_constantan": "2024-03-25 21:56:53 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_flowering": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -1855,6 +1891,12 @@
   "ars_nouveau:recipes/ars_nouveau/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_constantan_to_slab": {
+    "criteria": {
+      "has_storage_constantan": "2024-03-25 21:57:09 +0100"
     },
     "done": true
   },
@@ -2092,6 +2134,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_to_storage_constantan": {
+    "criteria": {
+      "has_ingot_constantan": "2024-03-25 21:56:45 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/worn_notebook": {
     "criteria": {
       "has_journal": "2024-03-25 14:55:00 +0100"
@@ -2143,6 +2191,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-03-25 14:54:59 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_to_nugget_constantan": {
+    "criteria": {
+      "has_ingot_constantan": "2024-03-25 21:57:13 +0100"
     },
     "done": true
   },
@@ -2263,6 +2317,12 @@
   "aether:recipes/combat/golden_gloves_repairing": {
     "criteria": {
       "has_golden_gloves": "2024-03-25 18:39:27 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_constantan_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_constantan": "2024-03-25 21:56:53 +0100"
     },
     "done": true
   },

@@ -16,6 +16,10 @@ ServerEvents.tags('item', event => {
         'iceandfire:copper_pickaxe', 
         'iceandfire:copper_axe',
         'thermal:copper_gear'])
+    event.add('forge:small_constantan_dust_crushable', //small_constantan_dust_crushable
+        ['thermal:constantan_gear', 
+        'thermal:constantan_plate', 
+        'thermal:constantan_ingot'])
     event.add('forge:small_copper_dust_crushable',[//small_copper_dust_crushable
         'iceandfire:copper_hoe',
         'iceandfire:copper_shovel', 

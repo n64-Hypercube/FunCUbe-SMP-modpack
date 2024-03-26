@@ -27,6 +27,8 @@ ServerEvents.recipes(event => {
     event.replaceOutput({ id:"immersiveengineering:crafting/pickaxe_steel"}, "immersiveengineering:pickaxe_steel" , 'mekanismtools:steel_pickaxe')
     event.replaceOutput({ output: 'immersiveengineering:dust_steel'}, 'immersiveengineering:dust_steel', 'mekanism:dust_steel')
     event.replaceOutput([{output:'thermal:gold_plate'}, {output: "immersiveengineering:plate_gold"}], ['thermal:gold_plate', 'immersiveengineering:plate_gold'], 'create:golden_sheet')
+    event.replaceOutput({ output:'immersiveengineering:ingot_constantan'},'immersiveengineering:ingot_constantan','thermal:constantan_ingot')
+    event.replaceOutput({ output:'immersiveengineering:plate_constantan'},'immersiveengineering:plate_constantan','thermal:constantan_plate')
 
     event.replaceOutput([{output: 'ad_astra:steel_nugget'},{output: 'immersiveengineering:nugget_steel'}], ['immersiveengineering:nugget_steel', 'ad_astra:steel_nugget'], 'mekanism:nugget_steel')
     event.replaceOutput([{output: 'immersiveengineering:ingot_steel'}, {output: 'ad_astra:steel_ingot'}],['immersiveengineering:ingot_steel', 'ad_astra:steel_ingot'],'mekanism:ingot_steel')
