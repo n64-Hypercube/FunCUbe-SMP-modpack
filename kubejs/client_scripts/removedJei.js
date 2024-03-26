@@ -21,7 +21,6 @@ JEIEvents.hideItems(event => {
         'create:creative_motor', 'create:creative_fluid_tank', 
         'create:creative_crate', 'create:creative_blaze_cake', 
         'create:handheld_worldshaper', 
-        'createaddition:creative_energy', 
         'create_sa:creative_filling_tank', 
         'iceandfire:creative_dragon_meal', 
         'mekanism:creative_bin', 
@@ -67,7 +66,6 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:storage_nickel', 
         'immersiveengineering:slab_storage_nickel',
         'immersiveengineering:raw_block_nickel',
-        'createaddition:diamond_grit', 
         'mekanism:dust_diamond',
         'ad_astra:steel_ingot', 
         'immersiveengineering:ingot_steel',
@@ -91,7 +89,12 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:plate_gold',
         'mekanism:dust_netherite',
         'thermal:copper_coin',
-        'thermal:gold_coin'
+        'thermal:gold_coin',
+        'immersiveengineering:storage_constantan', 
+        'immersiveengineering:dust_constantan', 
+        'immersiveengineering:plate_constantan', 
+        'immersiveengineering:nugget_constantan', 
+        'immersiveengineering:ingot_constantan'
         ]
     ])    
 })

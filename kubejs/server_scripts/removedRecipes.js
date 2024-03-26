@@ -26,7 +26,6 @@ ServerEvents.recipes(event => {
     event.remove({id: 'immersiveengineering:smelting/copper_ingot_from_dust_from_blasting'})
     event.remove({id: 'ad_astra:recipes/steel_ingot_from_nuggets'})
     event.remove({id: 'immersiveengineering:crafting/nugget_steel_to_ingot_steel'})
-    event.remove({id: 'createaddition:pressing/steel_ingot'})
     event.remove({id: 'immersiveengineering:crafting/plate_steel_hammering'})
     event.remove({id: 'immersiveengineering:crafting/raw_hammercrushing_nickel'})
     event.remove({id: 'immersiveengineering:crafting/raw_hammercrushing_silver'})
@@ -41,7 +40,6 @@ ServerEvents.recipes(event => {
     event.remove({id:'immersiveengineering:crafting/storage_constantan_to_ingot_constantan'})
     event.remove({id:'immersiveengineering:crafting/storage_constantan_to_slab'})
     event.remove({id:'thermal:fire_charge/constantan_ingot_2'})
-    event.remove({id:'createaddition:compat/immersiveengineering/constantan'})
     event.remove({id:'immersiveengineering:smelting/ingot_constantan_from_dust_from_blasting'})
     event.remove({id:'thermal:smelting/constantan_ingot_from_dust_smelting'})
     event.remove({id:''})
@@ -63,7 +61,6 @@ ServerEvents.recipes(event => {
     event.remove({id:'mekanism:processing/steel/ingot/from_dust_smelting'})
     event.remove({id:'mekanism:processing/steel/ingot/from_dust_blasting'})
     event.remove({input: 'immersiveengineering:sword_steel'})
-    event.remove({id:'createaddition:crushing/diamond'})
     //steel stuff
     
 })

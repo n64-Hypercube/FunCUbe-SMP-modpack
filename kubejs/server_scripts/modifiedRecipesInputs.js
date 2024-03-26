@@ -2,7 +2,6 @@ ServerEvents.recipes(event => {
     event.replaceInput({ input:'immersiveengineering:slab_sheetmetal_copper'},'immersiveengineering:slab_sheetmetal_copper','createdeco:copper_sheet_slab')
     event.replaceInput({ input:'immersiveengineering:sheetmetal_copper'},'immersiveengineering:sheetmetal_copper','createdeco:copper_sheet_metal')
     event.replaceInput({ input:'immersiveengineering:plate_copper'},'immersiveengineering:plate_copper','create:copper_sheet')
-    event.replaceInput({ id:'immersiveengineering:crafting/toolupgrade_revolver_electro'}, 'immersiveengineering:wire_copper', 'createaddition:copper_wire')
     event.replaceInput({ input:'iceandfire:copper_nugget'},'iceandfire:copper_nugget','create:copper_nugget')
     event.replaceInput({ id:'immersiveengineering:crafting/toolupgrade_revolver_bayonet'}, 'immersiveengineering:sword_steel','mekanismtools:steel_sword')
     event.replaceInput({ input: 'immersiveengineering:dust_steel'}, 'immersiveengineering:dust_steel', 'mekanism:dust_steel')

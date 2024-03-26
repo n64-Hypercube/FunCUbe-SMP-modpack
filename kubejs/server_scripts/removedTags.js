@@ -12,7 +12,6 @@ ServerEvents.tags('item', event => {
         'immersiveengineering:slab_storage_nickel', 
         'immersiveengineering:raw_block_nickel',
         'mekanism:dust_diamond',
-        'createaddition:diamond_grit',
         'immersiveengineering:slab_sheetmetal_copper',
         'immersiveengineering:sheetmetal_copper',
         'immersiveengineering:plate_copper', 
