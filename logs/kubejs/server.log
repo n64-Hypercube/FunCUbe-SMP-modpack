@@ -1,35 +1,36 @@
-[20:05:28] [INIT] KubeJS 1902.6.2-build.63; MC 1902 forge
-[20:05:28] [INIT] Loaded plugins:
-[20:05:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[20:05:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[20:05:28] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[20:05:28] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
-[20:05:28] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
-[20:05:28] [INFO] Loaded script server_scripts:addedTags.js in 0.041 s
-[20:05:28] [INFO] Loaded script server_scripts:crushing_recipes/constantan_dust.js in 0.008 s
-[20:05:28] [INFO] Loaded script server_scripts:crushing_recipes/copper_dust.js in 0.002 s
-[20:05:28] [INFO] Loaded script server_scripts:crushing_recipes/diamond_dust.js in 0.0 s
-[20:05:28] [INFO] Loaded script server_scripts:crushing_recipes/gold_dust.js in 0.0 s
-[20:05:28] [INFO] Loaded script server_scripts:crushing_recipes/netherite_dust.js in 0.0 s
-[20:05:28] [INFO] Loaded script server_scripts:crushing_recipes/nickel_dust.js in 0.0 s
-[20:05:28] [INFO] Loaded script server_scripts:crushing_recipes/steel_dust.js in 0.002 s
-[20:05:28] [INFO] Loaded script server_scripts:mixing_recipes/constantan.js in 0.001 s
-[20:05:28] [INFO] Loaded script server_scripts:modifiedRecipesInputs.js in 0.001 s
-[20:05:28] [INFO] Loaded script server_scripts:modifiedRecipesOutput.js in 0.0 s
-[20:05:28] [INFO] Loaded script server_scripts:pressing_recipes/nickel_plate.js in 0.0 s
-[20:05:28] [INFO] Loaded script server_scripts:pressing_recipes/steel_plate.js in 0.0 s
-[20:05:28] [INFO] Loaded script server_scripts:removedRecipes.js in 0.001 s
-[20:05:28] [INFO] Loaded script server_scripts:removedTags.js in 0.0 s
-[20:05:28] [INFO] Loaded 15/15 KubeJS server scripts in 0.13 s
-[20:05:28] [INFO] Scripts loaded
-[20:05:28] [INFO] Initializing recipe event...
-[20:05:30] [INFO] [minecraft:item] Found 1743 tags, added 121 objects, removed 0 objects
-[20:05:31] [INFO] Processing recipes...
-[20:05:31] [WARN] Failed to parse recipe 'bygonenether:stonecutting/cracked_withered_blackstone_vertical_slab_from_cracked_withered_blackstone_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[20:05:31] [WARN] Failed to parse recipe 'create_things_and_misc:schematic_chair[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[20:05:31] [WARN] Failed to parse recipe 'bygonenether:stonecutting/withered_blackstone_vertical_slab_from_withered_blackstone_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[20:05:31] [WARN] Failed to parse recipe 'bygonenether:stonecutting/warped_nether_brick_vertical_slab_from_warped_nether_bricks_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[20:05:31] [WARN] Failed to parse recipe 'create_things_and_misc:copper_scaffolding_craft[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[20:05:31] [INFO] Found 16728 recipes in 239.9 ms
-[20:05:32] [INFO] Posted recipe events in 810.5 ms
-[20:05:32] [INFO] Added 14 recipes, removed 53 recipes, modified 79 recipes, with 0 failed recipes in 69.75 ms
+[23:06:55] [INIT] KubeJS 1902.6.2-build.63; MC 1902 forge
+[23:06:55] [INIT] Loaded plugins:
+[23:06:55] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[23:06:55] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[23:06:55] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[23:06:55] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[23:06:55] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[23:06:55] [INFO] Loaded script server_scripts:addedTags.js in 0.001 s
+[23:06:55] [INFO] Loaded script server_scripts:crushing_recipes/constantan_dust.js in 0.0 s
+[23:06:55] [INFO] Loaded script server_scripts:crushing_recipes/copper_dust.js in 0.0 s
+[23:06:55] [INFO] Loaded script server_scripts:crushing_recipes/diamond_dust.js in 0.0 s
+[23:06:55] [INFO] Loaded script server_scripts:crushing_recipes/gold_dust.js in 0.001 s
+[23:06:55] [INFO] Loaded script server_scripts:crushing_recipes/iron_dust.js in 0.001 s
+[23:06:55] [INFO] Loaded script server_scripts:crushing_recipes/netherite_dust.js in 0.0 s
+[23:06:55] [INFO] Loaded script server_scripts:crushing_recipes/nickel_dust.js in 0.0 s
+[23:06:55] [INFO] Loaded script server_scripts:crushing_recipes/steel_dust.js in 0.001 s
+[23:06:55] [INFO] Loaded script server_scripts:mixing_recipes/constantan.js in 0.0 s
+[23:06:55] [INFO] Loaded script server_scripts:modifiedRecipesInputs.js in 0.001 s
+[23:06:55] [INFO] Loaded script server_scripts:modifiedRecipesOutput.js in 0.001 s
+[23:06:55] [INFO] Loaded script server_scripts:pressing_recipes/nickel_plate.js in 0.0 s
+[23:06:55] [INFO] Loaded script server_scripts:pressing_recipes/steel_plate.js in 0.0 s
+[23:06:55] [INFO] Loaded script server_scripts:removedRecipes.js in 0.001 s
+[23:06:55] [INFO] Loaded script server_scripts:removedTags.js in 0.0 s
+[23:06:55] [INFO] Loaded 16/16 KubeJS server scripts in 0.017 s
+[23:06:55] [INFO] Scripts loaded
+[23:06:55] [INFO] Initializing recipe event...
+[23:06:55] [INFO] [minecraft:item] Found 1745 tags, added 141 objects, removed 0 objects
+[23:06:56] [INFO] Processing recipes...
+[23:06:56] [WARN] Failed to parse recipe 'bygonenether:stonecutting/cracked_withered_blackstone_vertical_slab_from_cracked_withered_blackstone_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:06:56] [WARN] Failed to parse recipe 'create_things_and_misc:schematic_chair[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:06:56] [WARN] Failed to parse recipe 'bygonenether:stonecutting/withered_blackstone_vertical_slab_from_withered_blackstone_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:06:56] [WARN] Failed to parse recipe 'bygonenether:stonecutting/warped_nether_brick_vertical_slab_from_warped_nether_bricks_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:06:56] [WARN] Failed to parse recipe 'create_things_and_misc:copper_scaffolding_craft[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[23:06:56] [INFO] Found 16728 recipes in 85.69 ms
+[23:06:57] [INFO] Posted recipe events in 291.6 ms
+[23:06:57] [INFO] Added 16 recipes, removed 56 recipes, modified 89 recipes, with 0 failed recipes in 27.15 ms

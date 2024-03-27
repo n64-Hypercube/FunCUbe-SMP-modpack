@@ -47,10 +47,11 @@ JEIEvents.hideItems(event => {
         'iceandfire:copper_nugget',
         'thermal:copper_nugget',
         'immersiveengineering:nugget_copper',
-        'immersiveengineering:slab_sheetmetal_copper',
-        'immersiveengineering:sheetmetal_copper',
-        'immersiveengineering:slab_sheetmetal_copper',
-        'immersiveengineering:sheetmetal_copper',
+        'createdeco:copper_sheet_slab',
+        'createdeco:copper_sheet_metal',
+        'immersiveengineering:plate_iron', 
+        'ad_astra:iron_plate', 
+        'thermal:iron_plate',
         'immersiveengineering:plate_copper', 
         'thermal:copper_plate',
         'mekanism:dust_copper',
@@ -84,7 +85,6 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:armor_steel_legs', 
         'immersiveengineering:armor_steel_chest', 
         'immersiveengineering:armor_steel_head',
-        'immersiveengineering:wire_copper',
         'thermal:gold_plate', 
         'immersiveengineering:plate_gold',
         'mekanism:dust_netherite',
@@ -95,8 +95,8 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:plate_constantan', 
         'immersiveengineering:nugget_constantan', 
         'immersiveengineering:ingot_constantan',
-        'immersiveengineering:sheetmetal_iron',
-        'immersiveengineering:slab_sheetmetal_iron'
+        'createdeco:iron_sheet_metal',
+        'createdeco:iron_sheet_slab'
         ]
     ])    
 })

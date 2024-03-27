@@ -131,6 +131,28 @@ ServerEvents.tags('item', event => {
         'create:crushed_raw_gold', 
         'aether:golden_gloves', 
         'create_new_age:overcharged_golden_sheet'])
+    event.add('forge:small_iron_dust_crushable', //forge:small_iron_dust_crushable
+        ['thermal:iron_gear', 
+        'aether:iron_ring', 
+        'create:iron_sheet',
+        'immersiveengineering:component_iron', 
+        'minecraft:iron_shovel',
+        'minecraft:iron_hoe',
+        'minecraft:iron_sword',
+        'create_new_age:overcharged_iron_sheet', 
+        'minecraft:iron_ingot', 
+        'create_new_age:overcharged_iron'])
+    event.add('forge:iron_dust_crushable', //forge:iron_dust_crushable
+    ['thermal:iron_gear', 
+    'aether:iron_ring', 
+    'create:iron_sheet', 
+    'immersiveengineering:component_iron',
+    'minecraft:iron_shovel',
+    'minecraft:iron_hoe',
+    'minecraft:iron_sword', 
+    'create_new_age:overcharged_iron_sheet',
+    'minecraft:iron_ingot', 
+    'create_new_age:overcharged_iron'])
 })
 
 

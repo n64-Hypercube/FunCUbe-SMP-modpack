@@ -16,6 +16,7 @@ ServerEvents.tags('item', event => {
         'immersiveengineering:plate_iron', 
         'mekanism:enriched_iron', 
         'ad_astra:iron_plate',
+        'thermal:iron_plate',
         'ad_astra:iron_rod', 
         'mekanism:dust_iron', 
         'createdeco:iron_coin',
