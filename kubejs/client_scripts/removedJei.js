@@ -11,7 +11,9 @@ JEIEvents.hideItems(event => {
         'apotheosis:boss_summoner', 
         'ae2:creative_energy_cell', 
         'ae2:creative_item_cell', 
-        'ae2:creative_fluid_cell', 
+        'ae2:creative_fluid_cell',
+        'ad_astra:iron_rod', 
+        'createdeco:iron_coin',
         'appmek:creative_chemical_cell', 
         'botania:creative_pool', 
         'botania:infrangible_platform', 
@@ -96,7 +98,10 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:nugget_constantan', 
         'immersiveengineering:ingot_constantan',
         'createdeco:iron_sheet_metal',
-        'createdeco:iron_sheet_slab'
+        'createdeco:iron_sheet_slab',
+        'secretroomsmod:torch_lever',
+        'mekanism:dust_lapis_lazuli',
+        'mekanism:dust_quartz'
         ]
     ])    
 })

@@ -33,6 +33,7 @@ ServerEvents.tags('item', event => {
         'immersiveengineering:dust_steel',
         'mekanism:block_steel', 
         'ad_astra:steel_block',
+        'mekanism:dust_emerald',
         'immersiveengineering:wire_copper',
         'thermal:gold_plate', 
         'immersiveengineering:plate_gold',
@@ -42,6 +43,9 @@ ServerEvents.tags('item', event => {
         'immersiveengineering:ingot_constantan', 
         'immersiveengineering:plate_constantan', 
         'immersiveengineering:dust_constantan', 
-        'immersiveengineering:storage_constantan'
+        'immersiveengineering:storage_constantan',
+        'mekanism:dust_lapis_lazuli',
+        'mekanism:dust_quartz',
+        'alloyed:steel_ingot'
     ])
 })

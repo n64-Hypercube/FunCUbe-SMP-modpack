@@ -143,17 +143,50 @@ ServerEvents.tags('item', event => {
         'minecraft:iron_ingot', 
         'create_new_age:overcharged_iron'])
     event.add('forge:iron_dust_crushable', //forge:iron_dust_crushable
-    ['thermal:iron_gear', 
-    'aether:iron_ring', 
-    'create:iron_sheet', 
-    'immersiveengineering:component_iron',
-    'minecraft:iron_shovel',
-    'minecraft:iron_hoe',
-    'minecraft:iron_sword', 
-    'create_new_age:overcharged_iron_sheet',
-    'minecraft:iron_ingot', 
-    'create_new_age:overcharged_iron'])
-})
+        ['thermal:iron_gear', 
+        'aether:iron_ring', 
+        'create:iron_sheet', 
+        'immersiveengineering:component_iron',
+        'minecraft:iron_shovel',
+        'minecraft:iron_hoe',
+        'minecraft:iron_sword', 
+        'create_new_age:overcharged_iron_sheet',
+        'minecraft:iron_ingot', 
+        'create_new_age:overcharged_iron'])
+    event.add('forge:small_quartz_dust_crushable', //forge:small_quartz_dust_crushable
+        ['ae2:nether_quartz_cutting_knife', 
+        'ae2:nether_quartz_sword', 
+        'ae2:nether_quartz_hoe',
+        'ae2:nether_quartz_shovel'])
+    event.add('forge:quartz_dust_crushable', //forge:quartz_dust_crushable
+        ['thermal:quartz_gear', 
+        'ae2:nether_quartz_wrench',
+        'ae2:nether_quartz_axe', 
+        'ae2:nether_quartz_pickaxe'])
+    event.add('forge:small_certus_dust_crushable', //forge:small_certus_dust_crushable
+        ['ae2:certus_quartz_sword',
+        'ae2:certus_quartz_cutting_knife',
+        'ae2:certus_quartz_hoe', 
+        'ae2:certus_quartz_shovel',
+        'ae2:certus_quartz_crystal'])
+    event.add('forge:certus_dust_crushable', //forge:certus_dust_crushable
+        ['ae2:certus_quartz_pickaxe', 
+        'ae2:certus_quartz_axe', 
+        'ae2:certus_quartz_wrench'])
+    event.add('forge:small_lapis_dust_crushable', //forge:small_lapis_dust_crushable
+    ['mekanismtools:lapis_lazuli_sword', 
+    'mekanismtools:lapis_lazuli_shovel',
+    'mekanismtools:lapis_lazuli_hoe'])
+    event.add('forge:lapis_dust_crushable', //forge:lapis_dust_crushable
+    ['mekanismtools:lapis_lazuli_pickaxe', 
+    'mekanismtools:lapis_lazuli_paxel', 
+    'thermal:lapis_gear',
+    'mekanismtools:lapis_lazuli_axe',
+    'mekanismtools:lapis_lazuli_boots', 
+    'mekanismtools:lapis_lazuli_leggings',
+    'mekanismtools:lapis_lazuli_helmet',
+    'mekanismtools:lapis_lazuli_chestplate'])
+})  
 
 
 ServerEvents.tags('block', event => {// CAUTION !!! HERE ARE BLOCK TAGS

@@ -18,6 +18,7 @@ ServerEvents.recipes(event => {
     event.replaceOutput({ output:'createdeco:gold_coin'}, 'createdeco:gold_coin', 'thermal:gold_coin')
     event.replaceOutput({ output:'createdeco:copper_coin'}, 'createdeco:copper_coin', 'thermal:copper_coin')
     event.replaceOutput({ouput:'ad_astra:iron_plate'},'ad_astra:iron_plate', 'create:iron_sheet')
+    event.replaceOutput({output:'createdeco:iron_coin'},'createdeco:iron_coin', 'thermal:iron_coin')
     //steel armors
     event.replaceOutput({ id:'immersiveengineering:crafting/armor_steel_legs'}, 'immersiveengineering:armor_steel_legs', 'mekanismtools:steel_leggings')
     event.replaceOutput({ id:'immersiveengineering:crafting/armor_steel_feet'}, 'immersiveengineering:armor_steel_feet', 'mekanismtools:steel_boots')
